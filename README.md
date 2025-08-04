@@ -1,15 +1,16 @@
 # Marlon's Portfolio
 
-## Education
+### Education
 - HyperionDev Data Science Bootcamp
 - University of Roehampton,
   Psychology and Criminology, First Class Honours
 
-## Skills
+### Skills
 - Python
 - SQL
 - Microsoft Office
 - Tableau
+
 ### Soft Skills
 - Excellent Interpersonal and communication skills
 - Strong attention to detail and organisational abilities
