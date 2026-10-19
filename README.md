@@ -1,4 +1,4 @@
-# Marlon's Portfolio
+# Marlon Mangoba's Portfolio
 
 ### Education
 - HyperionDev Data Science Bootcamp
@@ -6,9 +6,9 @@
   Psychology and Criminology, First Class Honours
 
 ### Skills
-- Python
 - SQL
-- Microsoft Office
+- Python
+- Microsoft Office - Excel
 - Tableau
 
 ### Soft Skills
@@ -18,6 +18,9 @@
 - Adaptable with ability to thrice in fast-paced environments 
 
 ### Projects 
+
+
+
 [Clustering The World: An Unsupervised Classifciation Approach on Country Development](https://github.com/MarlonMangoba/Country-Categorising-Using-K-means-Clustering)
 - Data was taken from help.NGO
 - The model was cleaned and preprocessed for a k-means clsutering
