@@ -19,7 +19,7 @@
 
 ### Projects 
 
-[1. Customer Segmentation with K-Means Clustering (Python) ](README.md)
+[1. Customer Segmentation with K-Means Clustering (Python) ](https://github.com/MarlonMangoba/Customer-Segmentation-with-K-Means)
 
 **Python | Pandas | Scikit-learn| Matplotlib | Seaborn | Machine Leaning **
 
@@ -27,7 +27,7 @@
 - Applied exploratory data analysis, feature scaling, the elbow method and silhouette analysis to evaluate the models. The two-feature model identified five customer segments with a silhouette score of 0.554, while the three-feature model identified six segments with a score of 0.427.
 - **Key Findings:** Introducing Age revealed a distinction between younger and older customers with similar income and spending characteristics, demonstrating how feature selection can uncover additional customer insights.
  
-[2. Ames, Iowa House Prediction Model (Python)](README.md)
+[2. Ames, Iowa House Prediction Model (Python)](https://github.com/MarlonMangoba/House-Prediction-Model)
 
 ** Python | Pandas | Scikit-learn | Regression Analysis | Machine Learning 
 
