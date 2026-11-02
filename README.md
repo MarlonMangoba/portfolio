@@ -19,12 +19,20 @@
 
 ### Projects 
 
+[1. Customer Segmentation with K-Means Clustering (Python) ](README.md)
 
+**Python | Pandas | Scikit-learn| Matplotlib | Seaborn | Machine Leaning **
 
-[Clustering The World: An Unsupervised Classifciation Approach on Country Development](https://github.com/MarlonMangoba/Country-Categorising-Using-K-means-Clustering)
-- Data was taken from help.NGO
-- The model was cleaned and preprocessed for a k-means clsutering
-- Data visualisation using python packages: seaborn and matplotlib
+- Explored customer purchasing patterns using K-Means clustering on a dataset of 200 mall customers. Developed and compared two clustering models using Annual income, Spending Score and Age to investigate how different features influence customer segmentation
+- Applied exploratory data analysis, feature scaling, the elbow method and silhouette analysis to evaluate the models. The two-feature model identified five customer segments with a silhouette score of 0.554, while the three-feature model identified six segments with a score of 0.427.
+- **Key Findings:** Introducing Age revealed a distinction between younger and older customers with similar income and spending characteristics, demonstrating how feature selection can uncover additional customer insights.
+ 
+[2. Ames, Iowa House Prediction Model (Python)](README.md)
 
-[Ames, Iowa House Prediction Model](https://github.com/MarlonMangoba/House-Prediction-Model)
-- The goal of the project was to create a model that analyses the relationship between variables and build a linear regression mnodel to predict house prices based on the size of the living room and garage. 
+** Python | Pandas | Scikit-learn | Regression Analysis | Machine Learning 
+
+- Developed a multiple linear regression model to investigate how property characteristics influence house sale prices using the Ames Housing dataset.
+- Explored relationships between housing features and sale prices, focusing on Above-Ground Living Area (Gr_Liv_Area) and Garage Area (Garage_Area) as predictors.
+- Built and evaluated a regression model using Root Mean Squared Error (RMSE) and R² to assess prediction performance.
+- The model achieved an R² of approximately 0.57 and an RMSE of approx. $55,247. explaining around 57% of the variation in house sale pries.
+- **Key Findings:** Property size and garage area provided useful predictive information, although the model's performance highlighted the importance of incorporating additional housing characteristics to improve prediction accuracy. 
